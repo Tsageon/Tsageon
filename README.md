@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tsageon
-- 👀 I’m interested in C
+- 👀 I’m interested in learning all programming languages 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on any project that will further my skills with ReactJS and other frontend frameworks.
 - 📫 How to reach me via email or WhatsApp if you prefer.
